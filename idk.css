@@ -1,0 +1,46 @@
+
+body {
+    background-color: gray;
+    }
+    
+    #container  {
+        background-color: white;
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #header {
+        background-color: red;
+        color: white;
+        text-align: center;
+    }
+    
+    #content {
+        padding: 10px 10px 10px 10px;
+       
+    }
+    
+    #nav {
+        width: 180px;
+        float: left;
+    }
+    
+    #main {
+        width: 600px;
+        text-align: center;
+    }
+    
+    #footer {
+        clear: both;
+    }
+    
+    #nav .selected {
+        fount-weight: bold;
+    }
+    
+    
+    
+    
+    
+    
